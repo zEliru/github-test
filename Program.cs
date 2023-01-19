@@ -7,9 +7,11 @@
             HelloEdu();
             
         }
+        public static void HelloEdu()
+        {
+            Console.WriteLine("Hello,Edu!");
+        }
     }
-    public static void HelloEdu()
-    {
-        Console.WriteLine("Hello,Edu!");
-    }
+    //The code was outside the internal class. 
+  
 }
