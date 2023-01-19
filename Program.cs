@@ -12,6 +12,6 @@
             Console.WriteLine("Hello,Edu!");
         }
     }
-    //The code was outside the internal class. 
+    //The code was outside the internal class. asdasd
   
 }
